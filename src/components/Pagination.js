@@ -1,5 +1,4 @@
 import React from 'react'
-import { Pagination } from 'react-bootstrap'
 import ReactPaginate from 'react-paginate';
 import { UrlWithPage } from '../config';
 
