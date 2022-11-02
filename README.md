@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was published with [Powermski Movies App](https://powermski.github.com/moives-site).
 
 ## Available Scripts
 
