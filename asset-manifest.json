@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/moives-site/static/css/main.634a1e9e.css",
-    "main.js": "/moives-site/static/js/main.9fd2d0e3.js",
-    "static/js/787.624f411b.chunk.js": "/moives-site/static/js/787.624f411b.chunk.js",
+    "main.css": "/moives-site/static/css/main.da2be8ef.css",
+    "main.js": "/moives-site/static/js/main.b665f8ce.js",
     "static/media/logo.png": "/moives-site/static/media/logo.800ff118d3628e8c8f7f.png",
     "index.html": "/moives-site/index.html",
-    "main.634a1e9e.css.map": "/moives-site/static/css/main.634a1e9e.css.map",
-    "main.9fd2d0e3.js.map": "/moives-site/static/js/main.9fd2d0e3.js.map",
-    "787.624f411b.chunk.js.map": "/moives-site/static/js/787.624f411b.chunk.js.map"
+    "main.da2be8ef.css.map": "/moives-site/static/css/main.da2be8ef.css.map",
+    "main.b665f8ce.js.map": "/moives-site/static/js/main.b665f8ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.634a1e9e.css",
-    "static/js/main.9fd2d0e3.js"
+    "static/css/main.da2be8ef.css",
+    "static/js/main.b665f8ce.js"
   ]
 }
