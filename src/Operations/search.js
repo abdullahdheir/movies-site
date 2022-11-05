@@ -4,7 +4,6 @@ import getAllMovies from "./getAllMovie";
 
 //to search in api
 const search = async (word, setpageCount, setMovies) => {
-    console.log(word);
     if (word === "") {
         getAllMovies(Url, setpageCount, setMovies);
     } else {

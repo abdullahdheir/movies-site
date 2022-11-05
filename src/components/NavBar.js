@@ -1,11 +1,10 @@
 import React from "react";
 import { Container, Col, Row } from "react-bootstrap";
 import logo from '../images/logo.png'
-
+import { Link, useNavigation } from 'react-router-dom'
 
 
 const NavBar = ({ search, setPageCount,setMovie}) => {
-
   const onSearch = (word) => {
     search(word, setPageCount,setMovie)
   }
@@ -14,9 +13,9 @@ const NavBar = ({ search, setPageCount,setMovie}) => {
       <Container>
         <Row className="pt-2 ">
           <Col xs="2" lg="1">
-            <a href="/" >
+            <Link to='movies-site'>
               <img className="logo" src={logo} alt="dfs" />
-            </a>
+            </Link>
           </Col>
           <Col xs="10" lg="11" className=" d-flex align-items-center">
             <div className="search  w-100">
